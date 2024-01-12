@@ -1,1 +1,19 @@
+<style type="text/css">
+@import url('https://fonts.googleapis.com/css2?family=Readex+Pro&display=swap');
+button{
+    border-radius: 8px ;
+	background-image: linear-gradient(to right, #8B0000, #8B0000);
+    border-color: #990000;
+	padding: 0px;
+    margin:3px;
+    height:33px;
+    width: 100px;
+	
+    }
 
+	
+.button {text-align:center;} 
+{display:block;}
+button:active{border:2px solid #f00;} 
+	
+</style>
